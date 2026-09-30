@@ -5,7 +5,6 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626.svg)](https://jupyter.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-1.5+-150458.svg)](https://pandas.pydata.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Latest-F7931E.svg)](https://scikit-learn.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 An automated **Data Analytics & Machine Learning Pipeline** for product market trend evaluation, customer review sentiment classification, and sales correlation modeling. Built on Python processing workflows, this system analyzes multi-category product performance, extracts NLP sentiment metrics from review datasets, and evaluates the direct impact of customer perception on sales trajectories.
 
