@@ -4,7 +4,11 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626.svg)](https://jupyter.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-1.5+-150458.svg)](https://pandas.pydata.org/)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Latest-F7931E.svg)](https://scikit-learn.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-Data--Ops-013243.svg)](https://numpy.org/)
+[![TextBlob](https://img.shields.io/badge/TextBlob-Sentiment--Analysis-3776AB.svg)](https://textblob.readthedocs.io/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C.svg)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-3776AB.svg)](https://seaborn.pydata.org/)
+[![Selenium](https://img.shields.io/badge/Selenium-Web--Scraping-43B02A.svg)](https://www.selenium.dev/)
 
 An automated **Data Analytics & Machine Learning Pipeline** for product market trend evaluation, customer review sentiment classification, and sales correlation modeling. Built on Python processing workflows, this system analyzes multi-category product performance, extracts NLP sentiment metrics from review datasets, and evaluates the direct impact of customer perception on sales trajectories.
 
