@@ -1,4 +1,4 @@
-```markdown
+
 # 📈 Market Trend & Sentiment Analysis AI: Retail Perception & Sales Forecasting Pipeline
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
@@ -36,7 +36,6 @@ An automated **Data Analytics & Machine Learning Pipeline** for product market t
 │  Sales Correlation Dashboard  │ ──► Sentiment vs. Revenue Signals & Correlation Reports
 └───────────────────────────────┘
 
-```
 
 1. **Market Trend Modeling**: Aggregates multi-file time-series data across 81 sub-category sheets (`a1.xlsx` – `a81.xlsx`) to classify growing, stationary, and declining product lines.
 2. **Sentiment Classification**: Employs Natural Language Processing (NLP) to evaluate batch customer reviews and derive polarity and subjectivity metrics.
