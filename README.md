@@ -13,7 +13,7 @@ An automated **Data Analytics & Machine Learning Pipeline** for product market t
 
 ## 📌 Features & Architecture
 
-```text
+
 [Raw Review & Multi-Sheet Datasets]
            │
            ▼
@@ -43,7 +43,6 @@ An automated **Data Analytics & Machine Learning Pipeline** for product market t
 4. **Checkpoint Architecture**: Leverages modular CSV checkpoints (`df-checkpoint.csv`, `df1`–`df14`) to ensure reproducible pipeline stages and fast data recovery.
 5. **Interactive Notebook Workflow**: Modularized Jupyter Notebooks dedicated to specific analytical stages from raw data ingestion to final sales impact output.
 
----
 
 ## 📊 Dataset & Processing Summary
 
